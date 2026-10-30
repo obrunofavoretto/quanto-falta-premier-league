@@ -1,0 +1,449 @@
+{
+  "league": "eng-premier-league",
+  "season": 2026,
+  "fetchedAt": "2026-10-30T18:38:49.011078+00:00",
+  "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
+  "license": "CC BY-SA 4.0",
+  "teams": [
+    {
+      "id": 1247788217,
+      "name": "Manchester City",
+      "home": {
+        "played": 4,
+        "points": 12,
+        "wins": 4,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 11,
+        "goalsAgainst": 6
+      },
+      "away": {
+        "played": 4,
+        "points": 9,
+        "wins": 3,
+        "draws": 0,
+        "losses": 1,
+        "goalsFor": 9,
+        "goalsAgainst": 3
+      }
+    },
+    {
+      "id": 3677107027,
+      "name": "Arsenal",
+      "home": {
+        "played": 4,
+        "points": 12,
+        "wins": 4,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 9,
+        "goalsAgainst": 2
+      },
+      "away": {
+        "played": 4,
+        "points": 9,
+        "wins": 3,
+        "draws": 0,
+        "losses": 1,
+        "goalsFor": 4,
+        "goalsAgainst": 3
+      }
+    },
+    {
+      "id": 2330524003,
+      "name": "Brighton & Hove Albion",
+      "home": {
+        "played": 4,
+        "points": 10,
+        "wins": 3,
+        "draws": 1,
+        "losses": 0,
+        "goalsFor": 13,
+        "goalsAgainst": 1
+      },
+      "away": {
+        "played": 4,
+        "points": 6,
+        "wins": 2,
+        "draws": 0,
+        "losses": 2,
+        "goalsFor": 10,
+        "goalsAgainst": 6
+      }
+    },
+    {
+      "id": 3776193425,
+      "name": "Liverpool",
+      "home": {
+        "played": 4,
+        "points": 5,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goalsFor": 4,
+        "goalsAgainst": 5
+      },
+      "away": {
+        "played": 4,
+        "points": 10,
+        "wins": 3,
+        "draws": 1,
+        "losses": 0,
+        "goalsFor": 7,
+        "goalsAgainst": 3
+      }
+    },
+    {
+      "id": 1379034432,
+      "name": "Chelsea",
+      "home": {
+        "played": 4,
+        "points": 7,
+        "wins": 2,
+        "draws": 1,
+        "losses": 1,
+        "goalsFor": 11,
+        "goalsAgainst": 8
+      },
+      "away": {
+        "played": 4,
+        "points": 6,
+        "wins": 2,
+        "draws": 0,
+        "losses": 2,
+        "goalsFor": 6,
+        "goalsAgainst": 7
+      }
+    },
+    {
+      "id": 427353087,
+      "name": "Brentford",
+      "home": {
+        "played": 4,
+        "points": 7,
+        "wins": 2,
+        "draws": 1,
+        "losses": 1,
+        "goalsFor": 8,
+        "goalsAgainst": 3
+      },
+      "away": {
+        "played": 4,
+        "points": 4,
+        "wins": 0,
+        "draws": 4,
+        "losses": 0,
+        "goalsFor": 6,
+        "goalsAgainst": 6
+      }
+    },
+    {
+      "id": 2318099650,
+      "name": "Leeds United",
+      "home": {
+        "played": 4,
+        "points": 6,
+        "wins": 1,
+        "draws": 3,
+        "losses": 0,
+        "goalsFor": 6,
+        "goalsAgainst": 3
+      },
+      "away": {
+        "played": 4,
+        "points": 5,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goalsFor": 3,
+        "goalsAgainst": 3
+      }
+    },
+    {
+      "id": 1297411068,
+      "name": "Newcastle United",
+      "home": {
+        "played": 4,
+        "points": 5,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goalsFor": 6,
+        "goalsAgainst": 6
+      },
+      "away": {
+        "played": 4,
+        "points": 6,
+        "wins": 2,
+        "draws": 0,
+        "losses": 2,
+        "goalsFor": 6,
+        "goalsAgainst": 8
+      }
+    },
+    {
+      "id": 4139029080,
+      "name": "Aston Villa",
+      "home": {
+        "played": 4,
+        "points": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 5,
+        "goalsAgainst": 6
+      },
+      "away": {
+        "played": 4,
+        "points": 7,
+        "wins": 2,
+        "draws": 1,
+        "losses": 1,
+        "goalsFor": 4,
+        "goalsAgainst": 6
+      }
+    },
+    {
+      "id": 1624054493,
+      "name": "Hull City",
+      "home": {
+        "played": 4,
+        "points": 6,
+        "wins": 1,
+        "draws": 3,
+        "losses": 0,
+        "goalsFor": 5,
+        "goalsAgainst": 3
+      },
+      "away": {
+        "played": 4,
+        "points": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 4,
+        "goalsAgainst": 5
+      }
+    },
+    {
+      "id": 2054050316,
+      "name": "Everton",
+      "home": {
+        "played": 4,
+        "points": 7,
+        "wins": 2,
+        "draws": 1,
+        "losses": 1,
+        "goalsFor": 5,
+        "goalsAgainst": 4
+      },
+      "away": {
+        "played": 4,
+        "points": 3,
+        "wins": 0,
+        "draws": 3,
+        "losses": 1,
+        "goalsFor": 3,
+        "goalsAgainst": 5
+      }
+    },
+    {
+      "id": 3396454865,
+      "name": "Ipswich Town",
+      "home": {
+        "played": 4,
+        "points": 7,
+        "wins": 2,
+        "draws": 1,
+        "losses": 1,
+        "goalsFor": 5,
+        "goalsAgainst": 5
+      },
+      "away": {
+        "played": 4,
+        "points": 3,
+        "wins": 1,
+        "draws": 0,
+        "losses": 3,
+        "goalsFor": 7,
+        "goalsAgainst": 11
+      }
+    },
+    {
+      "id": 1927203410,
+      "name": "Bournemouth",
+      "home": {
+        "played": 4,
+        "points": 5,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goalsFor": 5,
+        "goalsAgainst": 4
+      },
+      "away": {
+        "played": 4,
+        "points": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 7,
+        "goalsAgainst": 9
+      }
+    },
+    {
+      "id": 2608249282,
+      "name": "Tottenham Hotspur",
+      "home": {
+        "played": 4,
+        "points": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 5,
+        "goalsAgainst": 6
+      },
+      "away": {
+        "played": 4,
+        "points": 5,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goalsFor": 3,
+        "goalsAgainst": 4
+      }
+    },
+    {
+      "id": 1418042351,
+      "name": "Fulham",
+      "home": {
+        "played": 4,
+        "points": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 6,
+        "goalsAgainst": 7
+      },
+      "away": {
+        "played": 4,
+        "points": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 2,
+        "goalsAgainst": 3
+      }
+    },
+    {
+      "id": 1720017301,
+      "name": "Manchester United",
+      "home": {
+        "played": 4,
+        "points": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 6,
+        "goalsAgainst": 7
+      },
+      "away": {
+        "played": 4,
+        "points": 3,
+        "wins": 0,
+        "draws": 3,
+        "losses": 1,
+        "goalsFor": 4,
+        "goalsAgainst": 6
+      }
+    },
+    {
+      "id": 2140531550,
+      "name": "Crystal Palace",
+      "home": {
+        "played": 4,
+        "points": 3,
+        "wins": 1,
+        "draws": 0,
+        "losses": 3,
+        "goalsFor": 6,
+        "goalsAgainst": 10
+      },
+      "away": {
+        "played": 4,
+        "points": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 3,
+        "goalsAgainst": 9
+      }
+    },
+    {
+      "id": 3231051264,
+      "name": "Nottingham Forest",
+      "home": {
+        "played": 4,
+        "points": 1,
+        "wins": 0,
+        "draws": 1,
+        "losses": 3,
+        "goalsFor": 0,
+        "goalsAgainst": 3
+      },
+      "away": {
+        "played": 4,
+        "points": 5,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goalsFor": 6,
+        "goalsAgainst": 7
+      }
+    },
+    {
+      "id": 1794067481,
+      "name": "Coventry City",
+      "home": {
+        "played": 4,
+        "points": 3,
+        "wins": 1,
+        "draws": 0,
+        "losses": 3,
+        "goalsFor": 4,
+        "goalsAgainst": 8
+      },
+      "away": {
+        "played": 4,
+        "points": 3,
+        "wins": 1,
+        "draws": 0,
+        "losses": 3,
+        "goalsFor": 2,
+        "goalsAgainst": 7
+      }
+    },
+    {
+      "id": 3563134987,
+      "name": "Sunderland",
+      "home": {
+        "played": 4,
+        "points": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 1,
+        "goalsAgainst": 4
+      },
+      "away": {
+        "played": 4,
+        "points": 1,
+        "wins": 0,
+        "draws": 1,
+        "losses": 3,
+        "goalsFor": 5,
+        "goalsAgainst": 10
+      }
+    }
+  ]
+}
