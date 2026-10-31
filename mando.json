@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-10-31T09:29:09.987877+00:00",
+  "fetchedAt": "2026-10-31T15:41:02.333759+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -72,6 +72,28 @@
       }
     },
     {
+      "id": 1379034432,
+      "name": "Chelsea",
+      "home": {
+        "played": 5,
+        "points": 10,
+        "wins": 3,
+        "draws": 1,
+        "losses": 1,
+        "goalsFor": 13,
+        "goalsAgainst": 8
+      },
+      "away": {
+        "played": 4,
+        "points": 6,
+        "wins": 2,
+        "draws": 0,
+        "losses": 2,
+        "goalsFor": 6,
+        "goalsAgainst": 7
+      }
+    },
+    {
       "id": 3776193425,
       "name": "Liverpool",
       "home": {
@@ -91,28 +113,6 @@
         "losses": 0,
         "goalsFor": 7,
         "goalsAgainst": 3
-      }
-    },
-    {
-      "id": 1379034432,
-      "name": "Chelsea",
-      "home": {
-        "played": 4,
-        "points": 7,
-        "wins": 2,
-        "draws": 1,
-        "losses": 1,
-        "goalsFor": 11,
-        "goalsAgainst": 8
-      },
-      "away": {
-        "played": 4,
-        "points": 6,
-        "wins": 2,
-        "draws": 0,
-        "losses": 2,
-        "goalsFor": 6,
-        "goalsAgainst": 7
       }
     },
     {
@@ -348,13 +348,13 @@
         "goalsAgainst": 7
       },
       "away": {
-        "played": 4,
+        "played": 5,
         "points": 3,
         "wins": 0,
         "draws": 3,
-        "losses": 1,
+        "losses": 2,
         "goalsFor": 4,
-        "goalsAgainst": 6
+        "goalsAgainst": 8
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-10-31T09:29:09.987877+00:00",
+  "fetchedAt": "2026-10-31T15:41:02.333759+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -38,24 +38,24 @@
       "sourceId": "331"
     },
     {
+      "id": 1379034432,
+      "name": "Chelsea",
+      "points": 16,
+      "played": 9,
+      "goalsFor": 19,
+      "goalsAgainst": 15,
+      "position": 4,
+      "sourceId": "363"
+    },
+    {
       "id": 3776193425,
       "name": "Liverpool",
       "points": 15,
       "played": 8,
       "goalsFor": 11,
       "goalsAgainst": 8,
-      "position": 4,
-      "sourceId": "364"
-    },
-    {
-      "id": 1379034432,
-      "name": "Chelsea",
-      "points": 13,
-      "played": 8,
-      "goalsFor": 17,
-      "goalsAgainst": 15,
       "position": 5,
-      "sourceId": "363"
+      "sourceId": "364"
     },
     {
       "id": 427353087,
@@ -161,9 +161,9 @@
       "id": 1720017301,
       "name": "Manchester United",
       "points": 7,
-      "played": 8,
+      "played": 9,
       "goalsFor": 10,
-      "goalsAgainst": 13,
+      "goalsAgainst": 15,
       "position": 16,
       "sourceId": "360"
     },
