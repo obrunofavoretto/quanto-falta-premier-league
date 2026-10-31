@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-10-31T15:41:02.333759+00:00",
+  "fetchedAt": "2026-10-31T19:51:22.899399+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/eng.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -20,7 +20,7 @@
       "id": 1247788217,
       "name": "Manchester City",
       "sourceId": "382",
-      "completed": 8
+      "completed": 9
     },
     {
       "id": 3677107027,
@@ -32,7 +32,7 @@
       "id": 2330524003,
       "name": "Brighton & Hove Albion",
       "sourceId": "331",
-      "completed": 8
+      "completed": 9
     },
     {
       "id": 1379034432,
@@ -50,13 +50,31 @@
       "id": 427353087,
       "name": "Brentford",
       "sourceId": "337",
-      "completed": 8
+      "completed": 9
+    },
+    {
+      "id": 1927203410,
+      "name": "Bournemouth",
+      "sourceId": "349",
+      "completed": 9
+    },
+    {
+      "id": 2608249282,
+      "name": "Tottenham Hotspur",
+      "sourceId": "367",
+      "completed": 9
+    },
+    {
+      "id": 1624054493,
+      "name": "Hull City",
+      "sourceId": "306",
+      "completed": 9
     },
     {
       "id": 2318099650,
       "name": "Leeds United",
       "sourceId": "357",
-      "completed": 8
+      "completed": 9
     },
     {
       "id": 1297411068,
@@ -71,10 +89,10 @@
       "completed": 8
     },
     {
-      "id": 1624054493,
-      "name": "Hull City",
-      "sourceId": "306",
-      "completed": 8
+      "id": 3396454865,
+      "name": "Ipswich Town",
+      "sourceId": "373",
+      "completed": 9
     },
     {
       "id": 2054050316,
@@ -83,22 +101,10 @@
       "completed": 8
     },
     {
-      "id": 3396454865,
-      "name": "Ipswich Town",
-      "sourceId": "373",
-      "completed": 8
-    },
-    {
-      "id": 1927203410,
-      "name": "Bournemouth",
-      "sourceId": "349",
-      "completed": 8
-    },
-    {
-      "id": 2608249282,
-      "name": "Tottenham Hotspur",
-      "sourceId": "367",
-      "completed": 8
+      "id": 1794067481,
+      "name": "Coventry City",
+      "sourceId": "388",
+      "completed": 9
     },
     {
       "id": 1418042351,
@@ -116,25 +122,19 @@
       "id": 2140531550,
       "name": "Crystal Palace",
       "sourceId": "384",
-      "completed": 8
+      "completed": 9
     },
     {
       "id": 3231051264,
       "name": "Nottingham Forest",
       "sourceId": "393",
-      "completed": 8
-    },
-    {
-      "id": 1794067481,
-      "name": "Coventry City",
-      "sourceId": "388",
-      "completed": 8
+      "completed": 9
     },
     {
       "id": 3563134987,
       "name": "Sunderland",
       "sourceId": "366",
-      "completed": 8
+      "completed": 9
     }
   ],
   "matches": [
@@ -2223,8 +2223,155 @@
       ],
       "firstScorer": 1379034432,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401878763",
+      "date": "2026-10-31T15:00Z",
+      "home": 1624054493,
+      "away": 3396454865,
+      "hg": 2,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3396454865,
+          "minute": "22",
+          "bin": 1
+        },
+        {
+          "team": 1624054493,
+          "minute": "58",
+          "bin": 4
+        },
+        {
+          "team": 1624054493,
+          "minute": "68",
+          "bin": 5
+        },
+        {
+          "team": 3396454865,
+          "minute": "74",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3396454865,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401879245",
+      "date": "2026-10-31T15:00Z",
+      "home": 1247788217,
+      "away": 2330524003,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2330524003,
+          "minute": "11",
+          "bin": 0
+        }
+      ],
+      "firstScorer": 2330524003,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401879247",
+      "date": "2026-10-31T15:00Z",
+      "home": 1794067481,
+      "away": 3563134987,
+      "hg": 3,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 1794067481,
+          "minute": "17",
+          "bin": 1
+        },
+        {
+          "team": 1794067481,
+          "minute": "37",
+          "bin": 2
+        },
+        {
+          "team": 1794067481,
+          "minute": "52",
+          "bin": 4
+        },
+        {
+          "team": 3563134987,
+          "minute": "67",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 1794067481,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401879249",
+      "date": "2026-10-31T15:00Z",
+      "home": 427353087,
+      "away": 3231051264,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 427353087,
+          "minute": "30",
+          "bin": 1
+        },
+        {
+          "team": 427353087,
+          "minute": "76",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 427353087,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401879251",
+      "date": "2026-10-31T15:00Z",
+      "home": 1927203410,
+      "away": 2318099650,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 1927203410,
+          "minute": "31",
+          "bin": 2
+        },
+        {
+          "team": 1927203410,
+          "minute": "90+4",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 1927203410,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401878761",
+      "date": "2026-10-31T17:30Z",
+      "home": 2608249282,
+      "away": 2140531550,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2608249282,
+          "minute": "25",
+          "bin": 1
+        },
+        {
+          "team": 2608249282,
+          "minute": "73",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2608249282,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 81,
+  "completedMatches": 87,
   "excluded": []
 }
