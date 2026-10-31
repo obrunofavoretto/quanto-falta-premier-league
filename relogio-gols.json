@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-10-31T19:51:22.899399+00:00",
+  "fetchedAt": "2026-10-31T23:15:59.269216+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/eng.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -65,6 +65,12 @@
       "completed": 9
     },
     {
+      "id": 4139029080,
+      "name": "Aston Villa",
+      "sourceId": "362",
+      "completed": 9
+    },
+    {
       "id": 1624054493,
       "name": "Hull City",
       "sourceId": "306",
@@ -83,12 +89,6 @@
       "completed": 8
     },
     {
-      "id": 4139029080,
-      "name": "Aston Villa",
-      "sourceId": "362",
-      "completed": 8
-    },
-    {
       "id": 3396454865,
       "name": "Ipswich Town",
       "sourceId": "373",
@@ -101,16 +101,16 @@
       "completed": 8
     },
     {
+      "id": 1418042351,
+      "name": "Fulham",
+      "sourceId": "370",
+      "completed": 9
+    },
+    {
       "id": 1794067481,
       "name": "Coventry City",
       "sourceId": "388",
       "completed": 9
-    },
-    {
-      "id": 1418042351,
-      "name": "Fulham",
-      "sourceId": "370",
-      "completed": 8
     },
     {
       "id": 1720017301,
@@ -2370,8 +2370,30 @@
       ],
       "firstScorer": 2608249282,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401879250",
+      "date": "2026-10-31T20:00Z",
+      "home": 4139029080,
+      "away": 1418042351,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 4139029080,
+          "minute": "39",
+          "bin": 2
+        },
+        {
+          "team": 1418042351,
+          "minute": "64",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 4139029080,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 87,
+  "completedMatches": 88,
   "excluded": []
 }
