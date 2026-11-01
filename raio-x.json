@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-01T13:04:56.554554+00:00",
+  "fetchedAt": "2026-11-01T18:23:48.888430+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -3044,9 +3044,9 @@
       "id": "3776193425-3677107027",
       "home": 3776193425,
       "away": 3677107027,
-      "date": 1793550600000,
+      "date": null,
       "round": "Rodada a confirmar",
-      "status": "scheduled"
+      "status": "pending"
     },
     {
       "id": "3776193425-1379034432",
