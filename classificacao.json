@@ -1,12 +1,22 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-01T18:23:48.888430+00:00",
+  "fetchedAt": "2026-11-01T22:41:03.939188+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
   "sourceHistoryUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League?action=history",
   "teams": [
+    {
+      "id": 3677107027,
+      "name": "Arsenal",
+      "points": 24,
+      "played": 9,
+      "goalsFor": 14,
+      "goalsAgainst": 5,
+      "position": 1,
+      "sourceId": "359"
+    },
     {
       "id": 1247788217,
       "name": "Manchester City",
@@ -14,18 +24,8 @@
       "played": 9,
       "goalsFor": 20,
       "goalsAgainst": 10,
-      "position": 1,
-      "sourceId": "382"
-    },
-    {
-      "id": 3677107027,
-      "name": "Arsenal",
-      "points": 21,
-      "played": 8,
-      "goalsFor": 13,
-      "goalsAgainst": 5,
       "position": 2,
-      "sourceId": "359"
+      "sourceId": "382"
     },
     {
       "id": 2330524003,
@@ -51,9 +51,9 @@
       "id": 3776193425,
       "name": "Liverpool",
       "points": 15,
-      "played": 8,
+      "played": 9,
       "goalsFor": 11,
-      "goalsAgainst": 8,
+      "goalsAgainst": 9,
       "position": 5,
       "sourceId": "364"
     },

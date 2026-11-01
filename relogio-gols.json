@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-01T18:23:48.888430+00:00",
+  "fetchedAt": "2026-11-01T22:41:03.939188+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/eng.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -17,16 +17,16 @@
   ],
   "teams": [
     {
+      "id": 3677107027,
+      "name": "Arsenal",
+      "sourceId": "359",
+      "completed": 9
+    },
+    {
       "id": 1247788217,
       "name": "Manchester City",
       "sourceId": "382",
       "completed": 9
-    },
-    {
-      "id": 3677107027,
-      "name": "Arsenal",
-      "sourceId": "359",
-      "completed": 8
     },
     {
       "id": 2330524003,
@@ -44,7 +44,7 @@
       "id": 3776193425,
       "name": "Liverpool",
       "sourceId": "364",
-      "completed": 8
+      "completed": 9
     },
     {
       "id": 427353087,
@@ -2392,8 +2392,25 @@
       ],
       "firstScorer": 4139029080,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401879246",
+      "date": "2026-11-01T16:30Z",
+      "home": 3776193425,
+      "away": 3677107027,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3677107027,
+          "minute": "16",
+          "bin": 1
+        }
+      ],
+      "firstScorer": 3677107027,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 88,
+  "completedMatches": 89,
   "excluded": []
 }
