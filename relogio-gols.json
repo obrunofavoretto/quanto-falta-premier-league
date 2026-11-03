@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-02T20:42:35.549331+00:00",
+  "fetchedAt": "2026-11-03T02:51:19.550649+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/eng.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -53,6 +53,12 @@
       "completed": 9
     },
     {
+      "id": 2054050316,
+      "name": "Everton",
+      "sourceId": "368",
+      "completed": 9
+    },
+    {
       "id": 1927203410,
       "name": "Bournemouth",
       "sourceId": "349",
@@ -86,19 +92,13 @@
       "id": 1297411068,
       "name": "Newcastle United",
       "sourceId": "361",
-      "completed": 8
+      "completed": 9
     },
     {
       "id": 3396454865,
       "name": "Ipswich Town",
       "sourceId": "373",
       "completed": 9
-    },
-    {
-      "id": 2054050316,
-      "name": "Everton",
-      "sourceId": "368",
-      "completed": 8
     },
     {
       "id": 1418042351,
@@ -2409,8 +2409,25 @@
       ],
       "firstScorer": 3677107027,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401878762",
+      "date": "2026-11-02T20:00Z",
+      "home": 1297411068,
+      "away": 2054050316,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2054050316,
+          "minute": "49",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 2054050316,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 89,
+  "completedMatches": 90,
   "excluded": []
 }
