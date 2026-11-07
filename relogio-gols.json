@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-07T18:37:20.381865+00:00",
+  "fetchedAt": "2026-11-07T22:37:42.773671+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/eng.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -26,7 +26,7 @@
       "id": 1247788217,
       "name": "Manchester City",
       "sourceId": "382",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 2330524003,
@@ -107,6 +107,12 @@
       "completed": 10
     },
     {
+      "id": 3231051264,
+      "name": "Nottingham Forest",
+      "sourceId": "393",
+      "completed": 10
+    },
+    {
       "id": 1794067481,
       "name": "Coventry City",
       "sourceId": "388",
@@ -122,12 +128,6 @@
       "id": 2140531550,
       "name": "Crystal Palace",
       "sourceId": "384",
-      "completed": 9
-    },
-    {
-      "id": 3231051264,
-      "name": "Nottingham Forest",
-      "sourceId": "393",
       "completed": 9
     },
     {
@@ -2514,8 +2514,40 @@
       ],
       "firstScorer": 1297411068,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401878757",
+      "date": "2026-11-07T17:30Z",
+      "home": 3231051264,
+      "away": 1247788217,
+      "hg": 3,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3231051264,
+          "minute": "6",
+          "bin": 0
+        },
+        {
+          "team": 3231051264,
+          "minute": "18",
+          "bin": 1
+        },
+        {
+          "team": 1247788217,
+          "minute": "52",
+          "bin": 4
+        },
+        {
+          "team": 3231051264,
+          "minute": "73",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3231051264,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 94,
+  "completedMatches": 95,
   "excluded": []
 }

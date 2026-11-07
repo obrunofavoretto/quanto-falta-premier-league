@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-07T18:37:20.381865+00:00",
+  "fetchedAt": "2026-11-07T22:37:42.773671+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -154,11 +154,24 @@
       "id": 1247788217,
       "name": "Manchester City",
       "points": 21,
-      "played": 9,
-      "goalsFor": 20,
-      "goalsAgainst": 10,
+      "played": 10,
+      "goalsFor": 21,
+      "goalsAgainst": 13,
       "position": 2,
       "recent": [
+        {
+          "id": "401878757",
+          "date": 1794072600000,
+          "home": "Nottingham Forest",
+          "away": "Manchester City",
+          "hg": 3,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Nottingham Forest",
+          "venue": "Fora",
+          "score": "1–3",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401879245",
           "date": 1793458800000,
@@ -277,8 +290,8 @@
           "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401879245",
-      "lastMatchDate": 1793458800000,
+      "lastMatchId": "401878757",
+      "lastMatchDate": 1794072600000,
       "sourceId": "382"
     },
     {
@@ -2063,13 +2076,157 @@
       "sourceId": "370"
     },
     {
+      "id": 3231051264,
+      "name": "Nottingham Forest",
+      "points": 9,
+      "played": 10,
+      "goalsFor": 9,
+      "goalsAgainst": 13,
+      "position": 16,
+      "recent": [
+        {
+          "id": "401878757",
+          "date": 1794072600000,
+          "home": "Nottingham Forest",
+          "away": "Manchester City",
+          "hg": 3,
+          "ag": 1,
+          "points": 3,
+          "opponent": "Manchester City",
+          "venue": "Casa",
+          "score": "3–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401879249",
+          "date": 1793458800000,
+          "home": "Brentford",
+          "away": "Nottingham Forest",
+          "hg": 2,
+          "ag": 0,
+          "points": 0,
+          "opponent": "Brentford",
+          "venue": "Fora",
+          "score": "0–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401879253",
+          "date": 1792782000000,
+          "home": "Ipswich Town",
+          "away": "Nottingham Forest",
+          "hg": 1,
+          "ag": 1,
+          "points": 1,
+          "opponent": "Ipswich Town",
+          "venue": "Fora",
+          "score": "1–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401878769",
+          "date": 1792337400000,
+          "home": "Nottingham Forest",
+          "away": "Arsenal",
+          "hg": 0,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Arsenal",
+          "venue": "Casa",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401879266",
+          "date": 1791723600000,
+          "home": "Crystal Palace",
+          "away": "Nottingham Forest",
+          "hg": 3,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Crystal Palace",
+          "venue": "Fora",
+          "score": "1–3",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401879270",
+          "date": 1789835400000,
+          "home": "Nottingham Forest",
+          "away": "Coventry City",
+          "hg": 0,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Coventry City",
+          "venue": "Casa",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401879284",
+          "date": 1789221600000,
+          "home": "Aston Villa",
+          "away": "Nottingham Forest",
+          "hg": 1,
+          "ag": 2,
+          "points": 3,
+          "opponent": "Aston Villa",
+          "venue": "Fora",
+          "score": "2–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401878780",
+          "date": 1788616800000,
+          "home": "Nottingham Forest",
+          "away": "Tottenham Hotspur",
+          "hg": 0,
+          "ag": 0,
+          "points": 1,
+          "opponent": "Tottenham Hotspur",
+          "venue": "Casa",
+          "score": "0–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401879314",
+          "date": 1788003000000,
+          "home": "Liverpool",
+          "away": "Nottingham Forest",
+          "hg": 2,
+          "ag": 2,
+          "points": 1,
+          "opponent": "Liverpool",
+          "venue": "Fora",
+          "score": "2–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401879298",
+          "date": 1787407200000,
+          "home": "Nottingham Forest",
+          "away": "Leeds United",
+          "hg": 0,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Leeds United",
+          "venue": "Casa",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        }
+      ],
+      "lastMatchId": "401878757",
+      "lastMatchDate": 1794072600000,
+      "sourceId": "393"
+    },
+    {
       "id": 1794067481,
       "name": "Coventry City",
       "points": 9,
       "played": 10,
       "goalsFor": 10,
       "goalsAgainst": 19,
-      "position": 16,
+      "position": 17,
       "recent": [
         {
           "id": "401879242",
@@ -2213,7 +2370,7 @@
       "played": 9,
       "goalsFor": 10,
       "goalsAgainst": 15,
-      "position": 17,
+      "position": 18,
       "recent": [
         {
           "id": "401879248",
@@ -2344,7 +2501,7 @@
       "played": 9,
       "goalsFor": 9,
       "goalsAgainst": 21,
-      "position": 18,
+      "position": 19,
       "recent": [
         {
           "id": "401878761",
@@ -2467,137 +2624,6 @@
       "lastMatchId": "401878761",
       "lastMatchDate": 1793467800000,
       "sourceId": "384"
-    },
-    {
-      "id": 3231051264,
-      "name": "Nottingham Forest",
-      "points": 6,
-      "played": 9,
-      "goalsFor": 6,
-      "goalsAgainst": 12,
-      "position": 19,
-      "recent": [
-        {
-          "id": "401879249",
-          "date": 1793458800000,
-          "home": "Brentford",
-          "away": "Nottingham Forest",
-          "hg": 2,
-          "ag": 0,
-          "points": 0,
-          "opponent": "Brentford",
-          "venue": "Fora",
-          "score": "0–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401879253",
-          "date": 1792782000000,
-          "home": "Ipswich Town",
-          "away": "Nottingham Forest",
-          "hg": 1,
-          "ag": 1,
-          "points": 1,
-          "opponent": "Ipswich Town",
-          "venue": "Fora",
-          "score": "1–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401878769",
-          "date": 1792337400000,
-          "home": "Nottingham Forest",
-          "away": "Arsenal",
-          "hg": 0,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Arsenal",
-          "venue": "Casa",
-          "score": "0–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401879266",
-          "date": 1791723600000,
-          "home": "Crystal Palace",
-          "away": "Nottingham Forest",
-          "hg": 3,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Crystal Palace",
-          "venue": "Fora",
-          "score": "1–3",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401879270",
-          "date": 1789835400000,
-          "home": "Nottingham Forest",
-          "away": "Coventry City",
-          "hg": 0,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Coventry City",
-          "venue": "Casa",
-          "score": "0–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401879284",
-          "date": 1789221600000,
-          "home": "Aston Villa",
-          "away": "Nottingham Forest",
-          "hg": 1,
-          "ag": 2,
-          "points": 3,
-          "opponent": "Aston Villa",
-          "venue": "Fora",
-          "score": "2–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401878780",
-          "date": 1788616800000,
-          "home": "Nottingham Forest",
-          "away": "Tottenham Hotspur",
-          "hg": 0,
-          "ag": 0,
-          "points": 1,
-          "opponent": "Tottenham Hotspur",
-          "venue": "Casa",
-          "score": "0–0",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401879314",
-          "date": 1788003000000,
-          "home": "Liverpool",
-          "away": "Nottingham Forest",
-          "hg": 2,
-          "ag": 2,
-          "points": 1,
-          "opponent": "Liverpool",
-          "venue": "Fora",
-          "score": "2–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401879298",
-          "date": 1787407200000,
-          "home": "Nottingham Forest",
-          "away": "Leeds United",
-          "hg": 0,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Leeds United",
-          "venue": "Casa",
-          "score": "0–1",
-          "round": "Rodada a confirmar"
-        }
-      ],
-      "lastMatchId": "401879249",
-      "lastMatchDate": 1793458800000,
-      "sourceId": "393"
     },
     {
       "id": 3563134987,
