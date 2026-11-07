@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-07T13:51:44.182831+00:00",
+  "fetchedAt": "2026-11-07T18:37:20.381865+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/eng.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -20,7 +20,7 @@
       "id": 3677107027,
       "name": "Arsenal",
       "sourceId": "359",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 1247788217,
@@ -59,6 +59,12 @@
       "completed": 9
     },
     {
+      "id": 2318099650,
+      "name": "Leeds United",
+      "sourceId": "357",
+      "completed": 10
+    },
+    {
       "id": 1927203410,
       "name": "Bournemouth",
       "sourceId": "349",
@@ -68,7 +74,13 @@
       "id": 2608249282,
       "name": "Tottenham Hotspur",
       "sourceId": "367",
-      "completed": 9
+      "completed": 10
+    },
+    {
+      "id": 1297411068,
+      "name": "Newcastle United",
+      "sourceId": "361",
+      "completed": 10
     },
     {
       "id": 4139029080,
@@ -80,19 +92,7 @@
       "id": 1624054493,
       "name": "Hull City",
       "sourceId": "306",
-      "completed": 9
-    },
-    {
-      "id": 2318099650,
-      "name": "Leeds United",
-      "sourceId": "357",
-      "completed": 9
-    },
-    {
-      "id": 1297411068,
-      "name": "Newcastle United",
-      "sourceId": "361",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 3396454865,
@@ -104,7 +104,7 @@
       "id": 1418042351,
       "name": "Fulham",
       "sourceId": "370",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 1794067481,
@@ -2458,8 +2458,64 @@
       ],
       "firstScorer": 1794067481,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401878758",
+      "date": "2026-11-07T12:30Z",
+      "home": 2318099650,
+      "away": 2608249282,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2318099650,
+          "minute": "79",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 2318099650,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401878760",
+      "date": "2026-11-07T15:00Z",
+      "home": 3677107027,
+      "away": 1624054493,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 3677107027,
+          "minute": "72",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3677107027,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401879241",
+      "date": "2026-11-07T15:00Z",
+      "home": 1418042351,
+      "away": 1297411068,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 1297411068,
+          "minute": "80",
+          "bin": 6
+        },
+        {
+          "team": 1418042351,
+          "minute": "83",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 1297411068,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 91,
+  "completedMatches": 94,
   "excluded": []
 }
