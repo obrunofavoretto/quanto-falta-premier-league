@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-06T20:47:35.538564+00:00",
+  "fetchedAt": "2026-11-07T00:49:12.444880+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -48,13 +48,23 @@
       "sourceId": "363"
     },
     {
+      "id": 2054050316,
+      "name": "Everton",
+      "points": 16,
+      "played": 10,
+      "goalsFor": 12,
+      "goalsAgainst": 10,
+      "position": 5,
+      "sourceId": "368"
+    },
+    {
       "id": 3776193425,
       "name": "Liverpool",
       "points": 15,
       "played": 9,
       "goalsFor": 11,
       "goalsAgainst": 9,
-      "position": 5,
+      "position": 6,
       "sourceId": "364"
     },
     {
@@ -64,18 +74,8 @@
       "played": 9,
       "goalsFor": 16,
       "goalsAgainst": 9,
-      "position": 6,
-      "sourceId": "337"
-    },
-    {
-      "id": 2054050316,
-      "name": "Everton",
-      "points": 13,
-      "played": 9,
-      "goalsFor": 9,
-      "goalsAgainst": 9,
       "position": 7,
-      "sourceId": "368"
+      "sourceId": "337"
     },
     {
       "id": 1927203410,
@@ -161,9 +161,9 @@
       "id": 1794067481,
       "name": "Coventry City",
       "points": 9,
-      "played": 9,
-      "goalsFor": 9,
-      "goalsAgainst": 16,
+      "played": 10,
+      "goalsFor": 10,
+      "goalsAgainst": 19,
       "position": 16,
       "sourceId": "388"
     },
