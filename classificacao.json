@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-08T16:58:45.582950+00:00",
+  "fetchedAt": "2026-11-08T21:01:35.465728+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -98,13 +98,23 @@
       "sourceId": "357"
     },
     {
+      "id": 4139029080,
+      "name": "Aston Villa",
+      "points": 13,
+      "played": 10,
+      "goalsFor": 14,
+      "goalsAgainst": 17,
+      "position": 10,
+      "sourceId": "362"
+    },
+    {
       "id": 2608249282,
       "name": "Tottenham Hotspur",
       "points": 12,
       "played": 10,
       "goalsFor": 10,
       "goalsAgainst": 11,
-      "position": 10,
+      "position": 11,
       "sourceId": "367"
     },
     {
@@ -114,18 +124,8 @@
       "played": 10,
       "goalsFor": 13,
       "goalsAgainst": 16,
-      "position": 11,
-      "sourceId": "361"
-    },
-    {
-      "id": 4139029080,
-      "name": "Aston Villa",
-      "points": 12,
-      "played": 9,
-      "goalsFor": 10,
-      "goalsAgainst": 13,
       "position": 12,
-      "sourceId": "362"
+      "sourceId": "361"
     },
     {
       "id": 1624054493,
@@ -178,24 +178,24 @@
       "sourceId": "388"
     },
     {
+      "id": 1720017301,
+      "name": "Manchester United",
+      "points": 8,
+      "played": 10,
+      "goalsFor": 14,
+      "goalsAgainst": 19,
+      "position": 18,
+      "sourceId": "360"
+    },
+    {
       "id": 3563134987,
       "name": "Sunderland",
       "points": 8,
       "played": 10,
       "goalsFor": 8,
       "goalsAgainst": 17,
-      "position": 18,
-      "sourceId": "366"
-    },
-    {
-      "id": 1720017301,
-      "name": "Manchester United",
-      "points": 7,
-      "played": 9,
-      "goalsFor": 10,
-      "goalsAgainst": 15,
       "position": 19,
-      "sourceId": "360"
+      "sourceId": "366"
     },
     {
       "id": 2140531550,
