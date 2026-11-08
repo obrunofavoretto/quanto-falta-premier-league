@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-08T10:05:58.008578+00:00",
+  "fetchedAt": "2026-11-08T16:58:45.582950+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/eng.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -23,22 +23,28 @@
       "completed": 10
     },
     {
+      "id": 2330524003,
+      "name": "Brighton & Hove Albion",
+      "sourceId": "331",
+      "completed": 10
+    },
+    {
       "id": 1247788217,
       "name": "Manchester City",
       "sourceId": "382",
       "completed": 10
     },
     {
-      "id": 2330524003,
-      "name": "Brighton & Hove Albion",
-      "sourceId": "331",
-      "completed": 9
+      "id": 3776193425,
+      "name": "Liverpool",
+      "sourceId": "364",
+      "completed": 10
     },
     {
       "id": 1379034432,
       "name": "Chelsea",
       "sourceId": "363",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 2054050316,
@@ -47,28 +53,22 @@
       "completed": 10
     },
     {
-      "id": 3776193425,
-      "name": "Liverpool",
-      "sourceId": "364",
-      "completed": 9
+      "id": 1927203410,
+      "name": "Bournemouth",
+      "sourceId": "349",
+      "completed": 10
     },
     {
       "id": 427353087,
       "name": "Brentford",
       "sourceId": "337",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 2318099650,
       "name": "Leeds United",
       "sourceId": "357",
       "completed": 10
-    },
-    {
-      "id": 1927203410,
-      "name": "Bournemouth",
-      "sourceId": "349",
-      "completed": 9
     },
     {
       "id": 2608249282,
@@ -98,7 +98,7 @@
       "id": 3396454865,
       "name": "Ipswich Town",
       "sourceId": "373",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 1418042351,
@@ -119,6 +119,12 @@
       "completed": 10
     },
     {
+      "id": 3563134987,
+      "name": "Sunderland",
+      "sourceId": "366",
+      "completed": 10
+    },
+    {
       "id": 1720017301,
       "name": "Manchester United",
       "sourceId": "360",
@@ -128,13 +134,7 @@
       "id": 2140531550,
       "name": "Crystal Palace",
       "sourceId": "384",
-      "completed": 9
-    },
-    {
-      "id": 3563134987,
-      "name": "Sunderland",
-      "sourceId": "366",
-      "completed": 9
+      "completed": 10
     }
   ],
   "matches": [
@@ -2546,8 +2546,106 @@
       ],
       "firstScorer": 3231051264,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401878759",
+      "date": "2026-11-08T14:00Z",
+      "home": 3396454865,
+      "away": 1927203410,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 1927203410,
+          "minute": "5",
+          "bin": 0
+        },
+        {
+          "team": 1927203410,
+          "minute": "46",
+          "bin": 4
+        },
+        {
+          "team": 3396454865,
+          "minute": "73",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 1927203410,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401879239",
+      "date": "2026-11-08T14:00Z",
+      "home": 3563134987,
+      "away": 1379034432,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 3563134987,
+          "minute": "36",
+          "bin": 2
+        }
+      ],
+      "firstScorer": 3563134987,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401879243",
+      "date": "2026-11-08T14:00Z",
+      "home": 2140531550,
+      "away": 3776193425,
+      "hg": 1,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 3776193425,
+          "minute": "40",
+          "bin": 2
+        },
+        {
+          "team": 3776193425,
+          "minute": "54",
+          "bin": 4
+        },
+        {
+          "team": 3776193425,
+          "minute": "89",
+          "bin": 6
+        },
+        {
+          "team": 2140531550,
+          "minute": "90+5",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 3776193425,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401879244",
+      "date": "2026-11-08T14:00Z",
+      "home": 2330524003,
+      "away": 427353087,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2330524003,
+          "minute": "15",
+          "bin": 0
+        },
+        {
+          "team": 2330524003,
+          "minute": "42",
+          "bin": 2
+        }
+      ],
+      "firstScorer": 2330524003,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 95,
+  "completedMatches": 99,
   "excluded": []
 }

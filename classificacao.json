@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-08T10:05:58.008578+00:00",
+  "fetchedAt": "2026-11-08T16:58:45.582950+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -18,33 +18,43 @@
       "sourceId": "359"
     },
     {
+      "id": 2330524003,
+      "name": "Brighton & Hove Albion",
+      "points": 22,
+      "played": 10,
+      "goalsFor": 26,
+      "goalsAgainst": 7,
+      "position": 2,
+      "sourceId": "331"
+    },
+    {
       "id": 1247788217,
       "name": "Manchester City",
       "points": 21,
       "played": 10,
       "goalsFor": 21,
       "goalsAgainst": 13,
-      "position": 2,
+      "position": 3,
       "sourceId": "382"
     },
     {
-      "id": 2330524003,
-      "name": "Brighton & Hove Albion",
-      "points": 19,
-      "played": 9,
-      "goalsFor": 24,
-      "goalsAgainst": 7,
-      "position": 3,
-      "sourceId": "331"
+      "id": 3776193425,
+      "name": "Liverpool",
+      "points": 18,
+      "played": 10,
+      "goalsFor": 14,
+      "goalsAgainst": 10,
+      "position": 4,
+      "sourceId": "364"
     },
     {
       "id": 1379034432,
       "name": "Chelsea",
       "points": 16,
-      "played": 9,
+      "played": 10,
       "goalsFor": 19,
-      "goalsAgainst": 15,
-      "position": 4,
+      "goalsAgainst": 16,
+      "position": 5,
       "sourceId": "363"
     },
     {
@@ -54,27 +64,27 @@
       "played": 10,
       "goalsFor": 12,
       "goalsAgainst": 10,
-      "position": 5,
+      "position": 6,
       "sourceId": "368"
     },
     {
-      "id": 3776193425,
-      "name": "Liverpool",
+      "id": 1927203410,
+      "name": "Bournemouth",
       "points": 15,
-      "played": 9,
-      "goalsFor": 11,
-      "goalsAgainst": 9,
-      "position": 6,
-      "sourceId": "364"
+      "played": 10,
+      "goalsFor": 16,
+      "goalsAgainst": 14,
+      "position": 7,
+      "sourceId": "349"
     },
     {
       "id": 427353087,
       "name": "Brentford",
       "points": 14,
-      "played": 9,
+      "played": 10,
       "goalsFor": 16,
-      "goalsAgainst": 9,
-      "position": 7,
+      "goalsAgainst": 11,
+      "position": 8,
       "sourceId": "337"
     },
     {
@@ -84,18 +94,8 @@
       "played": 10,
       "goalsFor": 10,
       "goalsAgainst": 8,
-      "position": 8,
-      "sourceId": "357"
-    },
-    {
-      "id": 1927203410,
-      "name": "Bournemouth",
-      "points": 12,
-      "played": 9,
-      "goalsFor": 14,
-      "goalsAgainst": 13,
       "position": 9,
-      "sourceId": "349"
+      "sourceId": "357"
     },
     {
       "id": 2608249282,
@@ -141,9 +141,9 @@
       "id": 3396454865,
       "name": "Ipswich Town",
       "points": 11,
-      "played": 9,
-      "goalsFor": 14,
-      "goalsAgainst": 18,
+      "played": 10,
+      "goalsFor": 15,
+      "goalsAgainst": 20,
       "position": 14,
       "sourceId": "373"
     },
@@ -178,34 +178,34 @@
       "sourceId": "388"
     },
     {
+      "id": 3563134987,
+      "name": "Sunderland",
+      "points": 8,
+      "played": 10,
+      "goalsFor": 8,
+      "goalsAgainst": 17,
+      "position": 18,
+      "sourceId": "366"
+    },
+    {
       "id": 1720017301,
       "name": "Manchester United",
       "points": 7,
       "played": 9,
       "goalsFor": 10,
       "goalsAgainst": 15,
-      "position": 18,
+      "position": 19,
       "sourceId": "360"
     },
     {
       "id": 2140531550,
       "name": "Crystal Palace",
       "points": 7,
-      "played": 9,
-      "goalsFor": 9,
-      "goalsAgainst": 21,
-      "position": 19,
-      "sourceId": "384"
-    },
-    {
-      "id": 3563134987,
-      "name": "Sunderland",
-      "points": 5,
-      "played": 9,
-      "goalsFor": 7,
-      "goalsAgainst": 17,
+      "played": 10,
+      "goalsFor": 10,
+      "goalsAgainst": 24,
       "position": 20,
-      "sourceId": "366"
+      "sourceId": "384"
     }
   ]
 }
