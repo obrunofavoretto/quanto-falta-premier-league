@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-21T17:17:00.000791+00:00",
+  "fetchedAt": "2026-11-21T22:59:01.895636+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/eng.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -20,7 +20,7 @@
       "id": 3677107027,
       "name": "Arsenal",
       "sourceId": "359",
-      "completed": 10
+      "completed": 11
     },
     {
       "id": 2330524003,
@@ -86,7 +86,7 @@
       "id": 1297411068,
       "name": "Newcastle United",
       "sourceId": "361",
-      "completed": 10
+      "completed": 11
     },
     {
       "id": 1794067481,
@@ -2847,8 +2847,40 @@
       ],
       "firstScorer": 1927203410,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401879232",
+      "date": "2026-11-21T17:30Z",
+      "home": 1297411068,
+      "away": 3677107027,
+      "hg": 2,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3677107027,
+          "minute": "33",
+          "bin": 2
+        },
+        {
+          "team": 1297411068,
+          "minute": "49",
+          "bin": 4
+        },
+        {
+          "team": 1297411068,
+          "minute": "62",
+          "bin": 5
+        },
+        {
+          "team": 3677107027,
+          "minute": "78",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3677107027,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 106,
+  "completedMatches": 107,
   "excluded": []
 }

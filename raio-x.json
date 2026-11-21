@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-21T17:17:00.000791+00:00",
+  "fetchedAt": "2026-11-21T22:59:01.895636+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -9,12 +9,25 @@
     {
       "id": 3677107027,
       "name": "Arsenal",
-      "points": 27,
-      "played": 10,
-      "goalsFor": 15,
-      "goalsAgainst": 5,
+      "points": 28,
+      "played": 11,
+      "goalsFor": 17,
+      "goalsAgainst": 7,
       "position": 1,
       "recent": [
+        {
+          "id": "401879232",
+          "date": 1795282200000,
+          "home": "Newcastle United",
+          "away": "Arsenal",
+          "hg": 2,
+          "ag": 2,
+          "points": 1,
+          "opponent": "Newcastle United",
+          "venue": "Fora",
+          "score": "2–2",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401878760",
           "date": 1794063600000,
@@ -131,23 +144,10 @@
           "venue": "Fora",
           "score": "1–0",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401879301",
-          "date": 1787338800000,
-          "home": "Arsenal",
-          "away": "Coventry City",
-          "hg": 3,
-          "ag": 0,
-          "points": 3,
-          "opponent": "Coventry City",
-          "venue": "Casa",
-          "score": "3–0",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401878760",
-      "lastMatchDate": 1794063600000,
+      "lastMatchId": "401879232",
+      "lastMatchDate": 1795282200000,
       "sourceId": "359"
     },
     {
@@ -1593,12 +1593,25 @@
     {
       "id": 1297411068,
       "name": "Newcastle United",
-      "points": 12,
-      "played": 10,
-      "goalsFor": 13,
-      "goalsAgainst": 16,
+      "points": 13,
+      "played": 11,
+      "goalsFor": 15,
+      "goalsAgainst": 18,
       "position": 12,
       "recent": [
+        {
+          "id": "401879232",
+          "date": 1795282200000,
+          "home": "Newcastle United",
+          "away": "Arsenal",
+          "hg": 2,
+          "ag": 2,
+          "points": 1,
+          "opponent": "Arsenal",
+          "venue": "Casa",
+          "score": "2–2",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401879241",
           "date": 1794063600000,
@@ -1715,23 +1728,10 @@
           "venue": "Fora",
           "score": "2–0",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401879319",
-          "date": 1787499000000,
-          "home": "Newcastle United",
-          "away": "Liverpool",
-          "hg": 2,
-          "ag": 2,
-          "points": 1,
-          "opponent": "Liverpool",
-          "venue": "Casa",
-          "score": "2–2",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401879241",
-      "lastMatchDate": 1794063600000,
+      "lastMatchId": "401879232",
+      "lastMatchDate": 1795282200000,
       "sourceId": "361"
     },
     {
@@ -4077,14 +4077,6 @@
       "home": 4139029080,
       "away": 2140531550,
       "date": 1796482800000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
-    },
-    {
-      "id": "1297411068-3677107027",
-      "home": 1297411068,
-      "away": 3677107027,
-      "date": 1795282200000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
     },

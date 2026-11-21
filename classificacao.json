@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-21T17:17:00.000791+00:00",
+  "fetchedAt": "2026-11-21T22:59:01.895636+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -10,10 +10,10 @@
     {
       "id": 3677107027,
       "name": "Arsenal",
-      "points": 27,
-      "played": 10,
-      "goalsFor": 15,
-      "goalsAgainst": 5,
+      "points": 28,
+      "played": 11,
+      "goalsFor": 17,
+      "goalsAgainst": 7,
       "position": 1,
       "sourceId": "359"
     },
@@ -120,10 +120,10 @@
     {
       "id": 1297411068,
       "name": "Newcastle United",
-      "points": 12,
-      "played": 10,
-      "goalsFor": 13,
-      "goalsAgainst": 16,
+      "points": 13,
+      "played": 11,
+      "goalsFor": 15,
+      "goalsAgainst": 18,
       "position": 12,
       "sourceId": "361"
     },
