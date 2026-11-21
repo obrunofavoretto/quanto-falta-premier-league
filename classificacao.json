@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-21T09:31:26.243638+00:00",
+  "fetchedAt": "2026-11-21T17:17:00.000791+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -30,12 +30,22 @@
     {
       "id": 1247788217,
       "name": "Manchester City",
-      "points": 21,
-      "played": 10,
-      "goalsFor": 21,
-      "goalsAgainst": 13,
+      "points": 22,
+      "played": 11,
+      "goalsFor": 22,
+      "goalsAgainst": 14,
       "position": 3,
       "sourceId": "382"
+    },
+    {
+      "id": 1927203410,
+      "name": "Bournemouth",
+      "points": 18,
+      "played": 11,
+      "goalsFor": 18,
+      "goalsAgainst": 14,
+      "position": 4,
+      "sourceId": "349"
     },
     {
       "id": 3776193425,
@@ -44,18 +54,18 @@
       "played": 10,
       "goalsFor": 14,
       "goalsAgainst": 10,
-      "position": 4,
+      "position": 5,
       "sourceId": "364"
     },
     {
-      "id": 1379034432,
-      "name": "Chelsea",
-      "points": 16,
-      "played": 10,
-      "goalsFor": 19,
-      "goalsAgainst": 16,
-      "position": 5,
-      "sourceId": "363"
+      "id": 2318099650,
+      "name": "Leeds United",
+      "points": 17,
+      "played": 11,
+      "goalsFor": 14,
+      "goalsAgainst": 9,
+      "position": 6,
+      "sourceId": "357"
     },
     {
       "id": 2054050316,
@@ -64,18 +74,28 @@
       "played": 10,
       "goalsFor": 12,
       "goalsAgainst": 10,
-      "position": 6,
+      "position": 7,
       "sourceId": "368"
     },
     {
-      "id": 1927203410,
-      "name": "Bournemouth",
+      "id": 1379034432,
+      "name": "Chelsea",
+      "points": 16,
+      "played": 11,
+      "goalsFor": 20,
+      "goalsAgainst": 20,
+      "position": 8,
+      "sourceId": "363"
+    },
+    {
+      "id": 2608249282,
+      "name": "Tottenham Hotspur",
       "points": 15,
-      "played": 10,
-      "goalsFor": 16,
-      "goalsAgainst": 14,
-      "position": 7,
-      "sourceId": "349"
+      "played": 11,
+      "goalsFor": 12,
+      "goalsAgainst": 11,
+      "position": 9,
+      "sourceId": "367"
     },
     {
       "id": 427353087,
@@ -84,38 +104,18 @@
       "played": 10,
       "goalsFor": 16,
       "goalsAgainst": 11,
-      "position": 8,
+      "position": 10,
       "sourceId": "337"
-    },
-    {
-      "id": 2318099650,
-      "name": "Leeds United",
-      "points": 14,
-      "played": 10,
-      "goalsFor": 10,
-      "goalsAgainst": 8,
-      "position": 9,
-      "sourceId": "357"
     },
     {
       "id": 4139029080,
       "name": "Aston Villa",
-      "points": 13,
-      "played": 10,
+      "points": 14,
+      "played": 11,
       "goalsFor": 14,
       "goalsAgainst": 17,
-      "position": 10,
-      "sourceId": "362"
-    },
-    {
-      "id": 2608249282,
-      "name": "Tottenham Hotspur",
-      "points": 12,
-      "played": 10,
-      "goalsFor": 10,
-      "goalsAgainst": 11,
       "position": 11,
-      "sourceId": "367"
+      "sourceId": "362"
     },
     {
       "id": 1297411068,
@@ -128,54 +128,64 @@
       "sourceId": "361"
     },
     {
+      "id": 1794067481,
+      "name": "Coventry City",
+      "points": 12,
+      "played": 11,
+      "goalsFor": 13,
+      "goalsAgainst": 21,
+      "position": 13,
+      "sourceId": "388"
+    },
+    {
       "id": 1624054493,
       "name": "Hull City",
       "points": 11,
       "played": 10,
       "goalsFor": 11,
       "goalsAgainst": 11,
-      "position": 13,
+      "position": 14,
       "sourceId": "306"
+    },
+    {
+      "id": 1418042351,
+      "name": "Fulham",
+      "points": 11,
+      "played": 11,
+      "goalsFor": 11,
+      "goalsAgainst": 13,
+      "position": 15,
+      "sourceId": "370"
     },
     {
       "id": 3396454865,
       "name": "Ipswich Town",
       "points": 11,
-      "played": 10,
+      "played": 11,
       "goalsFor": 15,
-      "goalsAgainst": 20,
-      "position": 14,
+      "goalsAgainst": 22,
+      "position": 16,
       "sourceId": "373"
-    },
-    {
-      "id": 1418042351,
-      "name": "Fulham",
-      "points": 10,
-      "played": 10,
-      "goalsFor": 10,
-      "goalsAgainst": 12,
-      "position": 15,
-      "sourceId": "370"
     },
     {
       "id": 3231051264,
       "name": "Nottingham Forest",
       "points": 9,
-      "played": 10,
+      "played": 11,
       "goalsFor": 9,
-      "goalsAgainst": 13,
-      "position": 16,
+      "goalsAgainst": 15,
+      "position": 17,
       "sourceId": "393"
     },
     {
-      "id": 1794067481,
-      "name": "Coventry City",
+      "id": 3563134987,
+      "name": "Sunderland",
       "points": 9,
-      "played": 10,
-      "goalsFor": 10,
-      "goalsAgainst": 19,
-      "position": 17,
-      "sourceId": "388"
+      "played": 11,
+      "goalsFor": 8,
+      "goalsAgainst": 17,
+      "position": 18,
+      "sourceId": "366"
     },
     {
       "id": 1720017301,
@@ -184,26 +194,16 @@
       "played": 10,
       "goalsFor": 14,
       "goalsAgainst": 19,
-      "position": 18,
-      "sourceId": "360"
-    },
-    {
-      "id": 3563134987,
-      "name": "Sunderland",
-      "points": 8,
-      "played": 10,
-      "goalsFor": 8,
-      "goalsAgainst": 17,
       "position": 19,
-      "sourceId": "366"
+      "sourceId": "360"
     },
     {
       "id": 2140531550,
       "name": "Crystal Palace",
       "points": 7,
-      "played": 10,
-      "goalsFor": 10,
-      "goalsAgainst": 24,
+      "played": 11,
+      "goalsFor": 12,
+      "goalsAgainst": 27,
       "position": 20,
       "sourceId": "384"
     }
