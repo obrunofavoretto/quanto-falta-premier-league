@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-22T10:59:13.244684+00:00",
+  "fetchedAt": "2026-11-22T18:23:41.580061+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -21,9 +21,9 @@
       "id": 2330524003,
       "name": "Brighton & Hove Albion",
       "points": 22,
-      "played": 10,
+      "played": 11,
       "goalsFor": 26,
-      "goalsAgainst": 7,
+      "goalsAgainst": 9,
       "position": 2,
       "sourceId": "331"
     },
@@ -108,13 +108,23 @@
       "sourceId": "337"
     },
     {
+      "id": 1624054493,
+      "name": "Hull City",
+      "points": 14,
+      "played": 11,
+      "goalsFor": 13,
+      "goalsAgainst": 11,
+      "position": 11,
+      "sourceId": "306"
+    },
+    {
       "id": 4139029080,
       "name": "Aston Villa",
       "points": 14,
       "played": 11,
       "goalsFor": 14,
       "goalsAgainst": 17,
-      "position": 11,
+      "position": 12,
       "sourceId": "362"
     },
     {
@@ -124,7 +134,7 @@
       "played": 11,
       "goalsFor": 15,
       "goalsAgainst": 18,
-      "position": 12,
+      "position": 13,
       "sourceId": "361"
     },
     {
@@ -134,18 +144,8 @@
       "played": 11,
       "goalsFor": 13,
       "goalsAgainst": 21,
-      "position": 13,
-      "sourceId": "388"
-    },
-    {
-      "id": 1624054493,
-      "name": "Hull City",
-      "points": 11,
-      "played": 10,
-      "goalsFor": 11,
-      "goalsAgainst": 11,
       "position": 14,
-      "sourceId": "306"
+      "sourceId": "388"
     },
     {
       "id": 1418042351,
