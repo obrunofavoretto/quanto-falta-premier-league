@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-23T21:07:54.778933+00:00",
+  "fetchedAt": "2026-11-24T05:51:02.631230+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/eng.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -47,16 +47,16 @@
       "completed": 11
     },
     {
+      "id": 427353087,
+      "name": "Brentford",
+      "sourceId": "337",
+      "completed": 11
+    },
+    {
       "id": 2318099650,
       "name": "Leeds United",
       "sourceId": "357",
       "completed": 11
-    },
-    {
-      "id": 2054050316,
-      "name": "Everton",
-      "sourceId": "368",
-      "completed": 10
     },
     {
       "id": 1379034432,
@@ -65,16 +65,16 @@
       "completed": 11
     },
     {
+      "id": 2054050316,
+      "name": "Everton",
+      "sourceId": "368",
+      "completed": 11
+    },
+    {
       "id": 2608249282,
       "name": "Tottenham Hotspur",
       "sourceId": "367",
       "completed": 11
-    },
-    {
-      "id": 427353087,
-      "name": "Brentford",
-      "sourceId": "337",
-      "completed": 10
     },
     {
       "id": 1624054493,
@@ -2933,8 +2933,40 @@
       ],
       "firstScorer": 3776193425,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401879237",
+      "date": "2026-11-23T20:00Z",
+      "home": 427353087,
+      "away": 2054050316,
+      "hg": 4,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 427353087,
+          "minute": "23",
+          "bin": 1
+        },
+        {
+          "team": 427353087,
+          "minute": "25",
+          "bin": 1
+        },
+        {
+          "team": 427353087,
+          "minute": "67",
+          "bin": 5
+        },
+        {
+          "team": 427353087,
+          "minute": "90",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 427353087,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 109,
+  "completedMatches": 110,
   "excluded": []
 }
