@@ -1,7 +1,7 @@
 {
   "league": "eng-premier-league",
   "season": 2026,
-  "fetchedAt": "2026-11-27T18:02:03.487456+00:00",
+  "fetchedAt": "2026-11-28T01:21:26.153487+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/eng.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -62,7 +62,7 @@
       "id": 1379034432,
       "name": "Chelsea",
       "sourceId": "363",
-      "completed": 11
+      "completed": 12
     },
     {
       "id": 2054050316,
@@ -95,6 +95,12 @@
       "completed": 11
     },
     {
+      "id": 3231051264,
+      "name": "Nottingham Forest",
+      "sourceId": "393",
+      "completed": 12
+    },
+    {
       "id": 1794067481,
       "name": "Coventry City",
       "sourceId": "388",
@@ -110,12 +116,6 @@
       "id": 3396454865,
       "name": "Ipswich Town",
       "sourceId": "373",
-      "completed": 11
-    },
-    {
-      "id": 3231051264,
-      "name": "Nottingham Forest",
-      "sourceId": "393",
       "completed": 11
     },
     {
@@ -2965,8 +2965,45 @@
       ],
       "firstScorer": 427353087,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401879225",
+      "date": "2026-11-27T20:00Z",
+      "home": 3231051264,
+      "away": 1379034432,
+      "hg": 3,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3231051264,
+          "minute": "5",
+          "bin": 0
+        },
+        {
+          "team": 3231051264,
+          "minute": "51",
+          "bin": 4
+        },
+        {
+          "team": 1379034432,
+          "minute": "54",
+          "bin": 4
+        },
+        {
+          "team": 3231051264,
+          "minute": "72",
+          "bin": 5
+        },
+        {
+          "team": 1379034432,
+          "minute": "89",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3231051264,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 110,
+  "completedMatches": 111,
   "excluded": []
 }
